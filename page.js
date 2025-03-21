@@ -14,8 +14,8 @@
 
 */
 
-let dizel= 45.53;
-let benzin= 40.25;
+let dizel= 60.53;
+let benzin= 55.25;
 let lpg= 20.10;
 
 const yeniSatir = "\r\n";//satır sonu işaretçisi escape squence
